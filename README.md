@@ -10,9 +10,9 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 Term: Fall 2019
 
 + Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ This project is conducted by Wenjie Xie
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: According to the psychologists, human is such a sucker of repetition. Our brains are more willing to process the information that we are already familiar with. That's why, in the music industry, song producers have to admit that repetition is the central element of music, especially in the modern music industry. In this report, let’s go and explore the interesting facts about repetitiveness of song lyrics. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
